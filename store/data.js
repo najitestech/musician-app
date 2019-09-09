@@ -9,7 +9,7 @@ module.exports = {
   Najite: {
     firstName: 'Kelvin',
     lastName: 'Ikpeni',
-//    genre: 'Smooth Jazz',
+    genre: 'Smooth Jazz',
     alternative: 'Neo-life Groov',
   },
 
