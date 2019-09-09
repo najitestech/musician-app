@@ -5,6 +5,13 @@ module.exports = {
     lastName: 'Coltrane',
     genre: 'JAZZ',
   },
+  
+  Najite: {
+    firstName: 'Kelvin',
+    lastName: 'Ikpeni',
+    genre: 'Smooth Jazz',
+    alternative: 'Neo-life Groov',
+  },
 
   davis: {
     firstName: 'Gustav',
